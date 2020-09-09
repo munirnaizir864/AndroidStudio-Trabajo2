@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcular</string>
+    <string name="bienvenido">BIENVENIDO</string>
+    <string name="Digite_Valores">Digite Valores</string>
+    <string name="pendiente">Pendiente</string>
+    <string name="Punto_Medio">Punto Medio</string>
+    <string name="Cuadrante">Cuadrante</string>
+    <string name="Valor_X1">X1</string>
+    <string name="Valor_y1">Y1</string>
+    <string name="Valor_x2">X2</string>
+    <string name="valor_y2">Y2</string>
+</resources>
